@@ -1,0 +1,63 @@
+# Kestrel Metrics
+
+> Kestrel Metrics is a consultancy in Georgetown, Texas, founded by Michael Reaves. It helps owners of service businesses find where revenue leaks after a lead comes in, and whether AI search tools recommend their business or a competitor. Kestrel Metrics measures first, reports in dollars, and never promises financial outcomes.
+
+## Who it is for
+
+Owners of service businesses doing $1M to $10M a year: home services companies and other service providers whose work starts with an inbound lead, an estimate, and a customer who should come back.
+
+## Services and prices
+
+- AI Search Visibility Report: Free. A check of what ChatGPT, Google's AI answers, and Perplexity say about your business when a buyer asks who to hire, which competitors get named instead, and what needs fixing. A preliminary report is delivered by email, usually within one business day. The full findings are reviewed on a free call.
+- Revenue Leak Diagnostic: starts at $1,000. A measured audit of where revenue leaks after the lead comes in: callback speed, estimate follow-up, invoicing, reviews, and reactivation. Each leak is quantified in dollars with a prioritized fix plan, reviewed one on one with the owner.
+- AI Search Visibility Management: starts at $450/month. Ongoing work to keep a business accurate and visible in AI search answers, re-measured every 30 days.
+- Estimate Rescue: starts at $2,500. A follow-up system for open estimates so quotes stop dying in silence.
+
+## Key pages
+
+- [Home](https://kestrelmetrics.com/): the offer, pricing, and common questions.
+- [About](https://kestrelmetrics.com/about.html): Michael Reaves and how Kestrel Metrics works.
+- [Field Notes](https://kestrelmetrics.com/blog/): the blog, one revenue leak documented at a time.
+- [Content](https://kestrelmetrics.com/content): videos from Make More|Keep More.
+- [Request the free AI Search Visibility Report](https://book.kestrelmetrics.com/widget/form/csECyvJEjqoNTdVzUZGw)
+- [Book a free discovery call](https://book.kestrelmetrics.com/widget/booking/97Zxt5xRpOplbllVgPwb)
+
+## Field Notes articles
+
+- [Billing Errors and Overpaid Labor: Leaks You Can’t See on the P&amp;L](https://kestrelmetrics.com/blog/billing-errors-and-overpaid-labor.html): Money already earned leaks out through unbilled work and overpaid hours. Industry figures put it at a few percent of profit, and the P&amp;L never flags it.
+- [How Fast Do You Have to Call a Lead Back?](https://kestrelmetrics.com/blog/how-fast-do-you-have-to-call-a-lead-back.html): The honest answer is five minutes. Wait an hour and you have likely lost the job to whoever picked up first. Here is the math.
+- [How Much Are Your Unpaid Invoices Costing You?](https://kestrelmetrics.com/blog/how-much-are-your-unpaid-invoices-costing-you.html): Unpaid and slow-paying invoices quietly cost a home services business $5,000 to $30,000 a year. Here is where the money goes and how to see it.
+- [How to Tell if Your Business Has a Revenue Leak: a 3-Question Self-Check](https://kestrelmetrics.com/blog/how-to-tell-if-your-business-has-a-revenue-leak.html): Three questions tell you whether your business is leaking money. Most owners cannot answer them, and that is the first sign of a leak worth thousands.
+- [Losing a 25% Premium Because You Don't Take Emergency Calls](https://kestrelmetrics.com/blog/losing-a-25-premium-because-you-dont-take-emergency-calls.html): Miss the after-hours call and you lose two things, not one: the base job and the premium on top of it. On a modest 3 calls a week, that runs close to $90,000 a year handed to whoever picks up.
+- [Only 3 Contractors](https://kestrelmetrics.com/blog/only-3-contractors.html): Paid-lead platforms promise your job goes to a handful of pros. One owner counted 21. Here is what that costs you every month, and the cheaper work sitting in plain sight.
+- [Speed-to-Lead vs. Buying More Ads: Where a Dollar Goes Further](https://kestrelmetrics.com/blog/speed-to-lead-vs-buying-more-ads.html): A dollar spent answering leads faster beats a dollar spent buying more of them. Here is why speed usually returns more than ad spend for home services.
+- [The Callback Tax: What Slow Follow-Up Quietly Takes Out of Your Pocket Every Month](https://kestrelmetrics.com/blog/the-callback-tax-what-slow-follow-up-quietly-takes-out-of-your-pocket-every-month.html): The phone got answered. The message got written down. The owner called back four hours later, and the job was already gone. A missed call does not have to ring out to cost you money.
+- [The Estimate Black Hole](https://kestrelmetrics.com/blog/the-estimate-black-hole.html): You know the sting of a quote that vanishes into silence. Your customers feel that same silence waiting on yours, and it is quietly costing you about a job a week.
+- [The Growth You Already Paid For](https://kestrelmetrics.com/blog/the-growth-you-already-paid-for.html): You spent money to make the phone ring and years to build your customer list. For a $3M shop, answering slow and following up inconsistently leaves $50,000 to $150,000 of that paid-for growth on the table every year.
+- [The Hidden Cost of the Owner Doing $15 Work](https://kestrelmetrics.com/blog/the-hidden-cost-of-the-owner-doing-15-dollar-work.html): Every hour the owner spends on $15 admin is an hour off the $200 work only he can do. For most owners that is $2,000 to $7,000 a month.
+- [The November Cliff](https://kestrelmetrics.com/blog/the-november-cliff.html): Work was strong through October. Then the phone went quiet, and the empty week nobody planned for can pull $30,000 to $90,000 out of a shop before spring.
+- [The Quote That Vanished: Why Follow-Up Is Where Contractors Lose the Most Money](https://kestrelmetrics.com/blog/the-quote-that-vanished-follow-up.html): The average contractor sends a quote, hears nothing, and moves on. That silence is worth $2,000 to $8,000 a month in jobs that were nearly yours.
+- [The Rescheduled Job That Never Comes Back](https://kestrelmetrics.com/blog/the-rescheduled-job-that-never-comes-back.html): The quote is signed, the parts are on the truck, and then the customer says 
+- [Unconfirmed Appointments Cost More Than No-Shows](https://kestrelmetrics.com/blog/unconfirmed-appointments-cost-more-than-no-shows.html): An unconfirmed appointment is a coin flip. No-shows run near a quarter of bookings, and a confirmation the day before cuts that by a third or more.
+- [What a Comeback Costs You Every Time You Send a Truck Back](https://kestrelmetrics.com/blog/what-a-comeback-costs-you.html): A comeback runs $150 to $800 once you count the truck, the paid labor, and the paying job you bumped. Here is where that money hides.
+- [What a Job That Ends Without a Review Costs You](https://kestrelmetrics.com/blog/what-a-job-without-a-review-costs.html): A completed job with no review is a revenue leak. A steady review engine is worth $1,000 to $4,000 a month at near-zero cost per lead. Here is how to see it.
+- [What a Lapsed Maintenance Plan Costs You](https://kestrelmetrics.com/blog/what-a-lapsed-maintenance-plan-costs.html): A lapsed maintenance plan quietly costs a home services business $300 to $1,200 a year per member. Here is how to see the leak and count it.
+- [What a Slow Quote Costs You](https://kestrelmetrics.com/blog/what-a-slow-quote-costs-you.html): The quote you send on Friday loses to the quote your competitor sent Tuesday night. Not because his price was better. Because his number was there first. For a typical shop, slow quotes leak $50,000 to $100,000 a year.
+- [What a Technician Leaves on the Table Every Visit](https://kestrelmetrics.com/blog/what-a-technician-leaves-on-the-table.html): A tech who spots a problem and never quotes it can walk away from $200 to $900 in work per visit. Here is how that money leaves, and how to see it.
+- [What Answering Every Call Is Actually Worth](https://kestrelmetrics.com/blog/what-answering-every-call-is-actually-worth.html): Answering every call, including nights and weekends, is worth $3,000 to $12,000 a month for home services shops. Here is the math on the ones you keep.
+- [What Skipping the Deposit Costs You](https://kestrelmetrics.com/blog/what-skipping-the-deposit-costs-you.html): A scheduled job booked with no deposit is a soft hold that can vanish. For most home services businesses that runs $2,000 to $9,000 a month. Here is how to see it.
+- [What Windshield Time Is Costing You Every Week](https://kestrelmetrics.com/blog/what-windshield-time-costs-you.html): Drive time between jobs is paid labor that never lands on an invoice. Here is what those hours cost a home services shop, and where they hide.
+- [Where Home Services Businesses Leak Money: 5 Places to Check First](https://kestrelmetrics.com/blog/where-home-services-businesses-leak-money.html): Most home services businesses lose $3,000 to $10,000 a month, and it hides in the same five places. Here is where to look first.
+- [Why Your Customers Buy Elsewhere for Work You Already Do](https://kestrelmetrics.com/blog/why-customers-buy-elsewhere-for-work-you-already-do.html): Your past customers hire someone else for work you already offer, because they never knew you did it. For most home services businesses that runs $1,500 to $7,000 a month.
+- [Why Your Best Customers Only Call You Once](https://kestrelmetrics.com/blog/why-your-best-customers-only-call-you-once.html): A one-time customer is worth one ticket. Kept five years, the same customer is worth thousands. Here is what letting them go cold costs you.
+- [Why Your Invoices Come In Lower Than Your Price List](https://kestrelmetrics.com/blog/why-your-invoices-come-in-lower-than-your-price-list.html): Your invoices average less than your price list. That gap can cost a shop $30,000 to $75,000 a year, and it comes off margin. Here is how to see it.
+- [You Haven't Raised Your Prices, and It's Costing You](https://kestrelmetrics.com/blog/you-havent-raised-your-prices-and-its-costing-you.html): Your costs went up and your prices stood still. A client of mine was quietly giving back $25,000 to $90,000 a year in margin, one flat invoice at a time.
+- [Your Dormant Customer List Is Cash You Already Earned](https://kestrelmetrics.com/blog/your-dormant-customer-list-is-cash.html): The names sitting in your phone are worth $2,000 to $9,000 a month in rebooked work. Reaching them costs less than one new lead.
+- [You're already a contractor. Now you're a lender.](https://kestrelmetrics.com/blog/youre-already-a-contractor-now-youre-a-lender.html): You did the work, made payroll, and finished on time. Then you waited sixty days to see a dime. For a large shop, the waiting and the writing-off together run $30,000 to $90,000 a year.
+
+## Contact
+
+- Phone: +1 (737) 427-0299
+- Email: michael@kestrelmetrics.com
+- Location: Georgetown, Texas, USA
+- Founder: Michael Reaves
